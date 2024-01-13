@@ -14,6 +14,7 @@ Stuff in subsection
 
 Section 1.2
 ~~~~~~~~~~~
+There are three tables
 
 
 Section 2
